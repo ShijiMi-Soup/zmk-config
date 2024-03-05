@@ -28,12 +28,12 @@ layers:
   - C
   - V
   - B
+  - '`'
   - N
   - M
   - ','
   - .
   - /
-  - '`'
   - {t: Esc, h: func}
   - {t: ↹, h: num}
   - {t: ␣, h: sym}
