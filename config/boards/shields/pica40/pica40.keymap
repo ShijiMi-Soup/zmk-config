@@ -107,7 +107,7 @@
                                                     &mo FUNC    &mo NUM  &kp SPACE    &kp ENTER  &kp BSPC  &mo NAV
                 >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
+            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         nav_layer {
