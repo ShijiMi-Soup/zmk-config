@@ -123,7 +123,7 @@
             bindings = <
                            &kp RBKT     &kp N7        &kp N8       &kp N9        &kp BSLH         &none  &none           &none          &kp MINUS       &kp EQUAL
                 &kp LBKT   &hp LGUI N0  &hr LCTRL N4  &hm LALT N5  &hm LSHFT N6  &kp EQUAL        &none  &hm RSHFT LPAR  &hm RALT RPAR  &hr LCTRL LBRC  &hp RGUI RBRC  &kp BSLH
-                &kp GRAVE  &none        &kp N1        &kp N2       &kp N3        &kp MINUS        &none  &none           &none          &none           &none          &none
+                &kp GRAVE  &kp N0       &kp N1        &kp N2       &kp N3        &kp MINUS        &none  &none           &none          &none           &none          &none
                                                                     &none  &trans  &kp SPACE   &kp ENTER  &kp DEL  &none
                 >;
         };
